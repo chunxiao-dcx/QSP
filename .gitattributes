@@ -1,2 +1,3 @@
 QSG_pro.fasta.bz2 filter=lfs diff=lfs merge=lfs -text
 *.bz2 filter=lfs diff=lfs merge=lfs -text
+QSP_nuc.txt.bz2 filter=lfs diff=lfs merge=lfs -text
