@@ -1,5 +1,7 @@
 # QSPdatabase  
-Microbes are able to monitor their population density through the release of pheromones known as quorum sensing (QS) signals. With the development of High-throughput sequencing technology, a specific database for QS-related sequences annotation is urgently needed.Here, Hidden Markov Models for 38 kinds of QS-related proteins were built using a total of 4024 collected seed sequences. Based on both homolog search and keywords confirmation against the NR database, we established a Quorum Sensing related protein (QSP) database including 809721 protein sequences and 186133 nucleotide sequences.
+Microbes are able to monitor their population density through the release of pheromones known as quorum sensing (QS) signals. With the development of High-throughput sequencing technology, a specific database for QS-related sequences annotation is urgently needed.Here, Hidden Markov Models for 38 kinds of QS-related proteins were built using a total of 4024 collected seed sequences. Based on both homolog search and keywords confirmation against the NR database, we established a Quorum Sensing related protein (QSP) database including 809721 protein sequences and 186133 nucleotide sequences.  
+##Construction
+![image](https://github.com/xxx/xxx/blob/master/xxx/xxx.png)
 
 ## QSP_pro.fasta  
 This file contains all protein sequences in fasta format. The QS type of each sequences is labelled using "QStype%" ahead of the accession number.  
@@ -35,6 +37,8 @@ STIGTIAPLRDIYEMAREFDCALVVDESHSLGTHGPNGSGLVKALELTEQVDFITVSLAK
 TFAYRAGAILGPEKLARTLPFVAFPAIFSSTVLPQEIVRLEKTLEVIRSADDKRTMLFKR
 AKELRTGLKQIGFHIRSESQIVALECGSERNTERVRDFLEERNVFGAVFCRPATGKNKNI
 IRFSINADMTSRDIDHVLTACQEAYNHPELEFA
+
+##Building process
 
 ## Cite  
 QSP: an open sequence database for quorum sensing related gene analysis with an automatic annotation pipeline.  
