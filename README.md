@@ -49,7 +49,7 @@ IRFSINADMTSRDIDHVLTACQEAYNHPELEFA
 
 ##Building process  
 
-![image](https://github.com/chunxiao-dcx/QSP/blob/main/Building process.png)
+![image](https://github.com/chunxiao-dcx/QSP/blob/main/Building_process.png)
 
 ## Cite  
 QSP: an open sequence database for quorum sensing related gene analysis with an automatic annotation pipeline.  
