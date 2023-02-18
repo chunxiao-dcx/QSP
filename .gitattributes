@@ -1,2 +1,0 @@
-QSP_nuc.txt.zip filter=lfs diff=lfs merge=lfs -text
-QSP_pro.fasta.zip filter=lfs diff=lfs merge=lfs -text
